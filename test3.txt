@@ -1,1 +1,5 @@
-fewlfwefewjfewfj fewjfjewjf
+def test():
+  add_file
+  remove file1
+  remove file2
+  load file2
